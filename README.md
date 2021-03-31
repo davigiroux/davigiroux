@@ -2,10 +2,10 @@
 I graduated in Software Development and Analisys (rough translation) in 2015 but have only been working in software development since 2017.
 
 ## Some work related things about me 👨🏻‍💻
-- I'm working at [PagSeguro](https://pagseguro.uol.com.br/) in the project [Pede Fácil](https://pedefacil.pagseguro.com.br/), one of the largest internet service companies in Brazil!
+- I work at [PagSeguro](https://pagseguro.uol.com.br/) in the project [Pede Fácil](https://pedefacil.pagseguro.com.br/), one of the largest internet service companies in Brazil!
 - I worked mostly as a full stack engineer, but recently transitioned to a more front end specialized role.
 - I'm currently learning about nextJs and a little bit of GraphQL and have been enjoying both a lot!
-- At this time, I'm working with ReactJS as the main framework of my personal projects, but I have some VueJS stuff in there too.
+- At this time, I'm using ReactJS as the main framework of my personal projects, but I have some VueJS stuff in there too.
 
 ## Some general things about me 
 - 🎸  I have a rock band! You can check us out at [Spotify as To Descent](https://open.spotify.com/artist/2kL0OVamLZTRvscqmBuPSC)
