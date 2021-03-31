@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi! I'm Davi Giroux 👋
+I graduated in Software Development and Analisys (rough translation) in 2015 but have only been working in software development since 2017.
 
-<!--
-**davigiroux/davigiroux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Some work related things about me 👨🏻‍💻
+- I'm working at [PagSeguro](https://pagseguro.uol.com.br/) in the project [Pede Fácil](https://pedefacil.pagseguro.com.br/), one of the largest internet service companies in Brazil!
+- I worked mostly as a full stack engineer, but recently transitioned to a more front end specialized role.
+- I'm currently learning about nextJs and a little bit of GraphQL and have been enjoying both a lot!
+- At this time, I'm working with ReactJS as the main framework of my personal projects, but I have some VueJS stuff in there too.
 
-Here are some ideas to get you started:
+## Some general things about me 
+- 🎸  I have a rock band! You can check us out at [Spotify as To Descent](https://open.spotify.com/artist/2kL0OVamLZTRvscqmBuPSC)
+- 🇨🇦  I'm currently working on a plan to move to Canada in 2023
+- 🇬🇧  Although I lived in London when I was 7 for about a year, I actually learned to speak english just by playing video games and watching youtube videos and not by living there.
+- ✍🏼  I love writing! I'll start to write some articles in english so I can share with you guys.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Social links 🔗
+[LinkedIn](https://www.linkedin.com/in/davi-alvarenga-028614119/?locale=en_US)
+
