@@ -1,10 +1,9 @@
-### Hi! I'm Davi Giroux 👋
+### Hi! I'm Davi Giroux
 I graduated in Software Development and Analisys (rough translation) in 2015 but have only been working in software development since 2017.
 
 ## Some work related things about me 👨🏻‍💻
-- I work at [X-Team](https://xteam.com) as a Full Stack Developer in the [Originate](https://originate.com) project.
+- I work at [X-Team](https://xteam.com) as a Full Stack Developer.
 - Even working mostly as a Full Stack Engineer, I'm a more frontend specialized dev (I love my React projects ❤).
-- I'm currently learning about nextJs and a little bit of GraphQL and have been enjoying both a lot!
 - At this time, I'm using ReactJS as the main framework of my personal projects, but I have some VueJS stuff in there too.
 - For the backend I have a bunch of experience with .net, but I tend to use Node as it is easier and quicker to setup.
 
