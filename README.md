@@ -2,10 +2,10 @@
 I graduated in Software Development and Analisys (rough translation) in 2015 but have only been working in software development since 2017.
 
 ## Some work related things about me 👨🏻‍💻
-- I work at [X-Team](https://xteam.com) as a Full Stack Developer.
+- I work at [Kake](https://kake.com/) as a Senior Software Enfineer.
 - Even working mostly as a Full Stack Engineer, I'm a more frontend specialized dev (I love my React projects ❤).
 - At this time, I'm using ReactJS as the main framework of my personal projects, but I have some VueJS stuff in there too.
-- For the backend I have a bunch of experience with .net, but I tend to use Node as it is easier and quicker to setup.
+- Using Golang as my go-to backend lang.
 
 ## Some general things about me 
 - 🎸  I have a rock band! You can check us out at [Spotify as To Descent](https://open.spotify.com/artist/2kL0OVamLZTRvscqmBuPSC)
