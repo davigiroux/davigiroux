@@ -1,15 +1,30 @@
-### Hi! I'm Davi Giroux
-I graduated in Software Development and Analisys (rough translation) in 2015 but have only been working in software development since 2017.
+# Davi Giroux
 
-## Some work related things about me 👨🏻‍💻
-- I work at [Kake](https://kake.com/) as a Senior Software Enfineer.
-- Even working mostly as a Full Stack Engineer, I'm a more frontend specialized dev (I love my React projects ❤).
-- At this time, I'm using ReactJS as the main framework of my personal projects, but I have some VueJS stuff in there too.
-- Using Golang as my go-to backend lang.
+Developer from Brazil building things and sharing what I learn along the way.
 
-## Some general things about me 
-- 🎸  I have a rock band! You can check us out at [Spotify as To Descent](https://open.spotify.com/artist/2kL0OVamLZTRvscqmBuPSC)
-- 💂‍♂️  Although I lived in London for about a year when I was 7 years old, I actually learned english just by playing video games and watching youtube videos and not by living there.
+## What I'm Up To
 
-## Social links 🔗
-[LinkedIn](https://www.linkedin.com/in/davi-alvarenga-028614119/?locale=en_US)
+**[DevGiroux](https://devgiroux.com)** - My tech blog about development, finance, and whatever I'm currently deep-diving into. Built with Next.js, Tailwind, and MDX.
+
+Currently on a two-week sprint to launch, then it's all about creating content and growing an audience.
+
+## Stack
+
+Next.js • TypeScript • Tailwind CSS • MDX • Vercel
+
+Also getting deep into Claude skills and workflow automation - teaching AI to speed up my content creation has been a game changer.
+
+## How I Work
+
+- Ship something that works, improve it based on real feedback
+- Build reusable systems so I'm not reinventing the wheel
+- Ask the right questions before writing code
+- Document the process, including the parts that didn't go smoothly
+
+## The Plan
+
+Content first, audience second, products third. Building the foundation now for what comes next.
+
+---
+
+🇧🇷 Based in Campo Grande, Brazil
