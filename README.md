@@ -1,29 +1,20 @@
 # Davi Giroux
 
-Developer from Brazil building things and sharing what I learn along the way.
+Senior Frontend Engineer with 10+ years in software development and 6+ building with React and TypeScript. Currently working on growth and marketing engineering at Coinbase.
 
-## What I'm Up To
+## What I work with
 
-**[DevGiroux](https://devgiroux.com)** - My tech blog about development, finance, and whatever I'm currently deep-diving into. Built with Next.js, Tailwind, and MDX.
+React · TypeScript · Golang · Next.js · Redux · Zustand · Node.js · MongoDB · PostgreSQL · Snowflake · AWS
 
-Currently on a two-week sprint to launch, then it's all about creating content and growing an audience.
+I've built email campaign platforms, real-time analytics dashboards, AI-powered content pipelines (Claude, GPT-4, Gemini), component libraries, and PWAs serving 100k+ users.
 
-## Stack
+## Previously
 
-Next.js • TypeScript • Tailwind CSS • MDX • Vercel
+Riot Games · PagSeguro · Nibo
 
-Also getting deep into Claude skills and workflow automation - teaching AI to speed up my content creation has been a game changer.
+## Side projects
 
-## How I Work
-
-- Ship something that works, improve it based on real feedback
-- Build reusable systems so I'm not reinventing the wheel
-- Ask the right questions before writing code
-- Document the process, including the parts that didn't go smoothly
-
-## The Plan
-
-Content first, audience second, products third. Building the foundation now for what comes next.
+**[DevGiroux](https://devgiroux.com)** — Tech blog about development and finance. Built with Next.js, Tailwind, and MDX.
 
 ---
 
