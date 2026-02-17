@@ -1,6 +1,6 @@
 # Davi Giroux
 
-Senior Frontend Engineer with 10+ years in software development and 6+ building with React and TypeScript. Currently working on growth and marketing engineering at Coinbase.
+Senior Fullstack Engineer with 10+ years in software development and 6+ building with React and TypeScript. Currently working on growth and marketing engineering at Coinbase.
 
 ## What I work with
 
