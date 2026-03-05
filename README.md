@@ -7,7 +7,7 @@ at Coinbase (via Kake).
 React · TypeScript · Golang · Next.js · Redux · Zustand · Node.js · MongoDB · PostgreSQL · Snowflake · AWS
 
 I've built email campaign platforms, real-time analytics dashboards, AI-powered 
-content pipelines (Claude, GPT-4, Gemini), internal developer platforms, and PWAs 
+content pipelines, internal developer platforms, and PWAs 
 serving 100k+ users.
 
 ## Previously
