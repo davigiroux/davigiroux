@@ -28,7 +28,7 @@ Learning Anchor/Rust through SolEscrow, a two-party token swap to get comfortabl
 
 ## Previously
 
-Coinbase · Riot Games (via X-Team) · PagSeguro · Nibo
+Coinbase (via Kake) · Riot Games (via X-Team) · PagSeguro · Nibo
 
 ## Links
 
