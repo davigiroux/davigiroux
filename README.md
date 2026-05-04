@@ -1,35 +1,35 @@
 # Davi Giroux
 
-Senior Software Engineer. 10+ years shipping software, 6+ deep in React/TypeScript. Currently building marketing infrastructure at Coinbase (via Kake) with React, Golang, and data pipelines.
+Senior software engineer. 10+ years shipping software, 6+ deep in React/TypeScript. Currently at Coinbase (via Kake) building marketing infrastructure with React, Golang, and data pipelines.
 
-Transitioning into blockchain engineering by building in public on both EVM and Solana.
+Outside of work, I build on-chain. Solana and EVM.
 
 ## What I'm Building
 
-**[BaseVault](https://github.com/davigiroux/basevault)** — Yield-bearing commitment savings protocol on Base. Multi-vault per user, ERC-20 support, Aave v3 yield integration. Solidity, Foundry, React/TypeScript, wagmi v2, viem v2. 100% test coverage, fork tests against live Aave, CI/CD, deployed to Vercel.
+**[SafeNudge](https://safenudge.xyz)** — Group accountability savings protocol on Solana. Brazilian MOAIs and caixinhas, but with smart contract enforcement instead of WhatsApp guilt. Six-instruction Anchor program with PDA-owned USDC vaults, React 19 + @solana/wallet-adapter frontend, i18n for PT-BR and EN. Colosseum Spring 2026 entry.
 
-**[FlagKit](https://github.com/davigiroux/flagkit)** — Self-hostable feature flag service. Golang API with Redis/Postgres, React/TypeScript dashboard, TypeScript SDK published to npm. Percentage rollout via consistent hashing, allowlist targeting, audit logging. Deployed to Railway.
+**[BaseVault](https://github.com/davigiroux/BaseVault)** — Yield-bearing commitment savings protocol on Base. Lock ETH with a time lock, earn Aave v3 yield while locked, full withdrawal after expiry. Solidity, Foundry, fuzz tests, 100% coverage. Frontend on wagmi v2, viem v2, RainbowKit, deployed on Vercel.
 
-## What's Next
+## Currently Into
 
-Entering the [Colosseum Spring 2026 hackathon](https://www.colosseum.org/) (Apr 6 – May 11) building Social Savings Vaults on Solana — group accountability savings with commitment mechanics and penalty redistribution. Think digital caixinhas with on-chain enforcement.
-
-Learning Anchor/Rust through SolEscrow, a two-party token swap to get comfortable with PDAs, CPIs, and SPL token management before the hackathon.
+Agentic AI workflows. Claude Code, MCP servers, automating my own pipelines. Multiplying output is the new senior engineer skill.
 
 ## Stack
 
-**Frontend:** React, TypeScript, Next.js, Redux, Zustand, Tailwind, wagmi/viem, wallet-adapter
+**Frontend:** React, TypeScript, Next.js, TanStack Query, Zustand, Tailwind, wagmi/viem, @solana/wallet-adapter
 
-**Backend:** Golang, Node.js, PostgreSQL, MongoDB, Redis, REST, gRPC
+**Backend:** Golang, Node.js, PostgreSQL, MongoDB, gRPC, REST
 
-**Blockchain:** Solidity, Foundry, Anchor (learning), Solana (learning)
+**On-chain:** Solidity, Foundry, Anchor (Rust), Solana web3.js
 
-**Infra:** AWS, Docker, CI/CD, Sentry, Vercel, Railway
+**Infra:** AWS, Docker, Vercel, Railway, Sentry, GitHub Actions
 
 ## Previously
 
-Coinbase (via Kake) · Riot Games (via X-Team) · PagSeguro · Nibo
+Coinbase (via Kake) · Riot Games (via X-Team) · Originate (via X-Team) · PagSeguro · Nibo
 
 ## Links
 
-[LinkedIn](https://www.linkedin.com/in/davi-alvarenga-028614119)
+[LinkedIn](https://www.linkedin.com/in/davi-alvarenga-028614119) · [X](https://x.com/devgiroux) · [devgiroux.com](https://devgiroux.com)
+
+Always up for a chat with people building small, ambitious products.
