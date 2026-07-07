@@ -22,4 +22,4 @@ Previously: Riot Games (via X-Team) · PagSeguro · Nibo
 
 ## Links
 
-[LinkedIn](https://www.linkedin.com/in/davi-alvarenga-028614119) · [X](https://x.com/devgiroux) · [devgiroux.com](https://devgiroux.com)
+[LinkedIn](https://www.linkedin.com/in/davi-giroux) · [X](https://x.com/devgiroux) · [devgiroux.com](https://devgiroux.com)
